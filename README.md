@@ -1,2 +1,2 @@
 # heifer
-Getting started with node.js and babel transpiler
+Getting started with node.js, babel transpiler, and vite bundler.
